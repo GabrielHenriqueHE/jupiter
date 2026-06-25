@@ -1,1 +1,1 @@
-# spring-oauth2-authorization-server
+# jupiter
